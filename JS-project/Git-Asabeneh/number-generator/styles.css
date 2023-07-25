@@ -1,0 +1,54 @@
+body {
+  text-align: center;
+}
+
+.container {
+  padding: 0;
+}
+
+input {
+
+  border-color: rgb(28, 145, 28);
+}
+
+button {
+  background-color: rgb(28, 145, 28);
+}
+
+.row {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(100px, 1fr));
+  grid-gap: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+
+  .row {
+    grid-template-columns: repeat(4, minmax(100px, 1fr));
+    grid-gap: 5px;
+  }
+}
+
+#num-area {
+  text-align: center;
+  margin: 10px;
+}
+
+.box {
+  height: 100px;
+  width: 100%;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
