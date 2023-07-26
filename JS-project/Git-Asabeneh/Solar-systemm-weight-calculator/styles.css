@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background-image: url('images/Galaxy.gif');
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat';
+    transition: 0.5s ease-out;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.flex-container {
+    margin: 5%;
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    background-color: rgba(184, 180, 180, 0.16);
+    padding: 2rem;
+}
+
+.planet-img {
+    width: 80%;
+}
+
+.description {
+    flex-grow: 1;
+    align-self: center;
+    background-color: rgba(184, 180, 180, 0.33);
+}
+
+.inner-text-box {
+    width: 100%;
+}
+
+.circle {
+    background-color: rgba(184, 180, 180, 0.658);
+    position: relative;
+    padding: 10%;
+    clip-path: circle(50px);
+
+}
+
+/* .weight {
+    
+} */
