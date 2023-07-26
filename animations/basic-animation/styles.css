@@ -1,0 +1,73 @@
+.container {
+    margin: auto;
+    height: 500px;
+    width: 500px;
+    background-color: blueviolet;
+}
+
+.box {
+    /* background-color: red; */
+    width: 50%;
+    height: 50%;
+    /* to give base class on action animation */
+    /* transition: transform 1s cubic-bezier(0.58,-0.42, 0.44, 1.5); */
+    animation: 3s ease-in animation-name infinite;
+
+}
+
+.container:hover .box {
+    /* @keyframes duration | easing-function | delay |
+iteration-count | direction | fill-mode | play-state | name */
+
+    /* 
+    duration --> how much time to finish animation
+    easing-function --> either your choice(have to define @keyframe function-name) or 
+                            ~ease,ease-in,ease-out,ease-in-out
+
+    delay --> how much after to wait before starting animation
+
+    iteration-count --> any number or infinite
+
+    direction --> where  to start after finiting one iteration
+                    ~ normal,reverse,alternate,alternate-reverse
+
+    fill-mode --> which side to stop after finiting animation
+                    ~ none,forwards,backwards,both
+
+    play-state
+*/
+    /* animation: 2s animation-name 4 alternate forwards; */
+    animation-play-state: paused;
+}
+
+@keyframes animation-name {
+    0% {
+        transform: translateX(0);
+        /* background-color: yellow; */
+
+    }
+
+    25% {
+        transform: translateY(100%);
+        background-color: orange;
+        border-radius: 50%;
+    }
+
+    50% {
+        transform: translate(100%, 100%);
+        background-color: rgb(26, 194, 26);
+        border-radius: 0%;
+    }
+
+    75% {
+        transform: translateX(100%);
+        border-radius: 50%;
+        background-color: floralwhite;
+    }
+
+    100% {
+        background-color: blue;
+        transform: translateX(0);
+
+    }
+}
