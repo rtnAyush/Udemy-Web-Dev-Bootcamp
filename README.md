@@ -39,6 +39,7 @@
 <hr>
 
 # Some Of My Hosted Projects That I have Build While Learning the course
+
 ## 📍 My CV
 
 - 📦 [Repository](https://github.com/rtnAyush/cv)
@@ -49,8 +50,8 @@
 - 📦 [Repository](https://github.com/rtnAyush/TinDog_Fully_Responsive_Website)
 - 🖥 [Site](https://rtnayush.github.io/TinDog_Fully_Responsive_Website/)
 
-## 📍 Frontend Mentor | Space tourism multi-page website coding challenge
-
+## 📍Space tourism multi-page website
+- Frontend Mentor Challenge
 - 📦 [Repository](https://rtnAyush.github.io/Frontend-Mentor-Space-tourism-multi-page-website-coding-challenge/)
 - 🖥 [Site](https://rtnayush.github.io/Frontend-Mentor-Space-tourism-multi-page-website-coding-challenge/)
 
@@ -60,48 +61,44 @@
 - 📦 [Repository](https://github.com/rtnAyush/Drum_Kit_WebApp)
 - 🖥 [Site](https://rtnayush.github.io/Drum_Kit_WebApp/)
   
-## Self Project
+## 📍 Self Project
 
 - 📦 [Repository](https://github.com/rtnAyush/my-first-project)
 - 🖥 [Site](https://rtnayush.github.io/my-first-project/)
     
 ## 📍 Simon Game
 
-- 📦 [Repository](https://github.com/lucasbivar/the-complete-web-bootcamp-projects/tree/main/7.simon)
+- 📦 [Repository](https://github.com/rtnAyush/Udemy-Web-Dev-Bootcamp/tree/main/JS-project/Udemy-Angulau/Simon%20Game%20Challenge)
 - 🖥 [Site](https://simon-online.netlify.app/)
 
 ## 📍 Newsletter SignUp Website
-###### It is a backend project, made with node.js using express.js frameWork. It uses api call.It serves as a newsletter subscribing list to the developer. It includes user data stores ie email in MAILCHIMP , and it is hosted on Render.com
-
+- It is a backend project, made with node.js using express.js frameWork. It uses api call.It serves as a newsletter subscribing list to the developer. It includes user data stores ie email in MAILCHIMP , and it is hosted on Render.com
 - 📦 [Repository](https://github.com/rtnAyush/my-Newsletter-website)
 - 🖥 [Site](https://newsletter-n6l9.onrender.com/)
 
 ## 📍 To Do List App (v1 challenge)
-###### This is a ToDo List app that stores the datas in the mongoDB database (using mongoose) with the help of node.js using Express.js frameWork. Also it is using EJS for not repeating code files .Thus it is a bakend driven Project.
-
+- This is a ToDo List app that stores the datas in the mongoDB database (using mongoose) with the help of node.js using Express.js frameWork. Also it is using EJS for not repeating code files .Thus it is a bakend driven Project.
 - 📦 [Repository](https://github.com/rtnAyush/ToDoList-App)
 - 🖥 [Site](https://todolist-app-zf7w.onrender.com/)
 
 ## 📍 Daily Jornal - Blog Website
-###### This is a BackEnd project mode with node.js using Express.js frameWork. Also it uses mongoose for mongoDB database and EJS.
-
+- This is a BackEnd project mode with node.js using Express.js frameWork. Also it uses mongoose for mongoDB database and EJS.
 - 📦 [Repository](https://github.com/rtnAyush/Blog-WebAPP)
 - 🖥 [Site](https://blog-webapp-gnlz.onrender.com/)
 
 ## 📍Keeper Clone App Clone ( To Do List v2 challenge)
-###### It is clone web App of Google keep, Made with React front-end frameWork.
-
+- It is clone web App of Google keep, Made with React front-end frameWork.
 - 📦 [Repository](https://github.com/rtnAyush/Keeper-clone-app)
 - 🖥 [Site](https://rtnayush.github.io/Keeper-clone-app/)
 
 ## 📍 Keeper App 
-###### A google keeper clone.
+- A google keeper clone.
 - 📦 [Repository](https://github.com/lucasbivar/the-complete-web-bootcamp-projects/tree/main/15.keeper-app)
 - 🖥 [Site](https://mykeeper-app.herokuapp.com/)
 
 
-## Frontend Mentor | Rock Paper Scissor Game
-
+## 📍Rock Paper Scissor Game
+-  Frontend Mentor Challenge
 - 📦 [Repository](https://github.com/rtnAyush/Rock-Paper-Scissor-Game)
 - 🖥 [Site](https://rtnayush.github.io/Rock-Paper-Scissor-Game/)
 
@@ -109,7 +106,7 @@
 
 - 📦 [Repository](https://github.com/rtnAyush/Amazon-clone)
 - 🖥 [Site](https://rtnayush.github.io/Amazon-clone/)
-
+- Demo
 https://github.com/rtnAyush/Amazon-clone/assets/98096047/4d213c01-c62f-4cf5-8000-e2ba37625295
 <hr> 
 
